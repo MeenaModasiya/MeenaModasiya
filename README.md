@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Meena modasiya</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img src="https://www.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_14723886.htm#query=woman%20coding&position=1&from_view=keyword&track=ais" align="left" width="400" />
+<img src="https://www.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_14723886.htm#query=woman%20coding&position=1&from_view=keyword&track=ais" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenamodasiya&label=Profile%20views&color=0e75b6&style=flat" alt="meenamodasiya" /> </p>
 
 - 🌱 I’m currently learning **Software Testing**
