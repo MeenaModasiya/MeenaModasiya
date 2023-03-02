@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Meena modasiya</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img src="https://img.freepik.com/premium-vector/developer-using-mobile_24640-79630.jpg" width="400" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenamodasiya&label=Profile%20views&color=0e75b6&style=flat" alt="meenamodasiya" /> </p>
 
 - 🌱 I’m currently learning **Software Testing**
 
 - 💬 Ask me about **Manual Testing , Automation Testing**
-
+<img src="https://img.freepik.com/premium-vector/developer-using-mobile_24640-79630.jpg" align="right" width="400" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
