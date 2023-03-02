@@ -1,4 +1,3 @@
-![log]<img src="file:///C:/Users/hp/Desktop/New%20folder%20(2)/20230302_145630_0000.png" />
 <h1 align="center">Hi 👋, I'm Meena modasiya</h1
 <h3 align="center">A passionate Software Developer from India</h3>
 <img src="https://img.freepik.com/premium-vector/developer-using-mobile_24640-79630.jpg" alt="coding" align="right" width="400" />
