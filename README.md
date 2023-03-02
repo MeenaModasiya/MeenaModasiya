@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Manual Testing , Automation Testing**
 <img src="https://img.freepik.com/premium-vector/developer-using-mobile_24640-79630.jpg" align="right" width="300" />
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 <br>
