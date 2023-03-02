@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Manual Testing , Automation Testing**
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
