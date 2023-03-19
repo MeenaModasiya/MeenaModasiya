@@ -1,7 +1,3 @@
-Hi 👋, I'm Meena Modasiya
-
-
-
 # 💫 About Me:
 🔭 I’m currently working on sql<br>🤝 I’m looking for help with manual testing<br>🌱 I’m currently learning software testing<br>💬 Ask me about manual and automation testing<br>⚡  I am fresher 
 
