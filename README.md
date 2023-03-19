@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on sql<br>🤝 I’m looking for help with manual testing<br>🌱 I’m currently learning software testing<br>💬 Ask me about manual and automation testing<br>⚡  I am fresher 
+🔭 I’m currently working on sql<br>🤝 I’m looking for help with manual testing<br>🌱 I’m currently learning software testing<br>💬 Ask me about manual and automation testing<br>⚡  I am fresher but experienced in projects
 
 
 ## 🌐 Socials:
